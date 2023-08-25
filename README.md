@@ -16,6 +16,8 @@
   
 <h2>O desafio:</h2>
 <p align="justify">Seguindo a metodologia Flexbox, a criação de Uma página que leva a vídeos na plataforma Youtube. "Inspirada em uma plataforma de Streamming de Vídeos."</p>
+<p>Disponível apenas para Computadores, Celulares.</p>
+<a href="https://streamming-videos.vercel.app/">Veja aqui o projeto!</a>
 
 --------------------------------------------------------------------------------------------------------------------
 
